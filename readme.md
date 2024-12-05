@@ -5,3 +5,4 @@
 - Sarthak Chakraborty
 - Archak Nath 
 - Sanjib Sen
+- Srijit Pal

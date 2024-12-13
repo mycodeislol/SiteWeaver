@@ -19,6 +19,7 @@ export default {
     extend: {
       fontFamily: {
         // palanquin: ['Palanquin', 'sans-serif'],
+        outfit: ['Outfit', 'sans-serif'],
       },
       colors: {
         // 'primary': "#ECEEFF",
@@ -34,7 +35,5 @@ export default {
       }
     },
   },
-  plugins: [
-    require('daisyui'),
-  ],
+  plugins: [],
 }

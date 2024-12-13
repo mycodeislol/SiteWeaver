@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+const Tags = () => {
   return (
     <div>
-      Home
+      Tags
     </div>
   )
 }
 
-export default Home
+export default Tags
